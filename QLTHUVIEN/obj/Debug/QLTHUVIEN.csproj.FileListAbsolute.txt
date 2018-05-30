@@ -1,0 +1,63 @@
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csprojResolveAssemblyReference.cache
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMSach.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMTacgia.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMTheloai.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Login.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Mainform.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.Properties.Resources.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csproj.GenerateResource.Cache
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.exe
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.pdb
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMVitri.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNhaxuatban.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNgonngu.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.TKSach.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.HDMuon.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Chonsach.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNhanvien.resources
+C:\Users\Duong Nguyen Jr\Documents\ngon ngu 2\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMDocgia.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.exe
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.pdb
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csprojResolveAssemblyReference.cache
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Chonsach.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMDocgia.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNhanvien.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.HDMuon.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNgonngu.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNhaxuatban.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMSach.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMTacgia.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMTheloai.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMVitri.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Login.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Mainform.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.TKSach.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.Properties.Resources.resources
+E:\Năm 3\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csproj.GenerateResource.Cache
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.exe
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.pdb
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csprojResolveAssemblyReference.cache
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Chonsach.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMDocgia.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNhanvien.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.HDMuon.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNgonngu.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMNhaxuatban.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMSach.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMTacgia.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMTheloai.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.DMVitri.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Login.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.Mainform.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.form.TKSach.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.Properties.Resources.resources
+E:\Năm 3\Ki II\thực tập nhóm\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\QLTHUVIEN.csproj.GenerateResource.Cache

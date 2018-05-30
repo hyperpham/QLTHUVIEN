@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A5634C04-9EA9-4BE1-A0AA-D65C884718D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLTHUVIEN</RootNamespace>
+    <AssemblyName>QLTHUVIEN</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\functions.cs" />
+    <Compile Include="form\Chonsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Chonsach.Designer.cs">
+      <DependentUpon>Chonsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMDocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMDocgia.Designer.cs">
+      <DependentUpon>DMDocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMNhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMNhanvien.Designer.cs">
+      <DependentUpon>DMNhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HDMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HDMuon.Designer.cs">
+      <DependentUpon>HDMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMNgonngu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMNgonngu.Designer.cs">
+      <DependentUpon>DMNgonngu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMNhaxuatban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMNhaxuatban.Designer.cs">
+      <DependentUpon>DMNhaxuatban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMSach.Designer.cs">
+      <DependentUpon>DMSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMTacgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMTacgia.Designer.cs">
+      <DependentUpon>DMTacgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMTheloai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMTheloai.Designer.cs">
+      <DependentUpon>DMTheloai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DMVitri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DMVitri.Designer.cs">
+      <DependentUpon>DMVitri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Mainform.Designer.cs">
+      <DependentUpon>Mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\TKSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\TKSach.Designer.cs">
+      <DependentUpon>TKSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="form\Chonsach.resx">
+      <DependentUpon>Chonsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMDocgia.resx">
+      <DependentUpon>DMDocgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMNhanvien.resx">
+      <DependentUpon>DMNhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HDMuon.resx">
+      <DependentUpon>HDMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMNgonngu.resx">
+      <DependentUpon>DMNgonngu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMNhaxuatban.resx">
+      <DependentUpon>DMNhaxuatban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMSach.resx">
+      <DependentUpon>DMSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMTacgia.resx">
+      <DependentUpon>DMTacgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMTheloai.resx">
+      <DependentUpon>DMTheloai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DMVitri.resx">
+      <DependentUpon>DMVitri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Mainform.resx">
+      <DependentUpon>Mainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\TKSach.resx">
+      <DependentUpon>TKSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Asset\account.png" />
+    <Content Include="Asset\add .png" />
+    <Content Include="Asset\btnBoQua.png" />
+    <Content Include="Asset\btnDong.png" />
+    <Content Include="Asset\btnLuu.png" />
+    <Content Include="Asset\btnSuu.png" />
+    <Content Include="Asset\btnThem.png" />
+    <Content Include="Asset\btnXoa.png" />
+    <Content Include="Asset\change.png" />
+    <Content Include="Asset\delete.png" />
+    <Content Include="Asset\exit.png" />
+    <Content Include="Asset\save.png" />
+    <None Include="Asset\sign-check-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
