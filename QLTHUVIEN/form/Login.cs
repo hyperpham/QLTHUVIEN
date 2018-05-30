@@ -24,10 +24,10 @@ namespace QLTHUVIEN.form
             Class.Functions.Connect();
 
             //kiem tra ton tai user
-            sql = "SELECT USERS FROM LOGIN where USERS=N'" + txtuser.Text + "'";
+            sql = "SELECT USERS FROM LOGIN where USERS=N'"+txtuser.Text+"'";
             if (Class.Functions.CheckKey(sql))
             {
-                sql = "SELECT PASS FROM LOGIN WHERE USERS='" + txtpass.Text.Trim() + "'";
+                sql = "SELECT PASS FROM LOGIN WHERE PASS='" + txtpass.Text.Trim()+"'";
                 if (Class.Functions.CheckKey(sql))
                 {
                     this.Hide();
